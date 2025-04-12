@@ -1,0 +1,8 @@
+# Core requirement: ArcGIS Desktop 10.8 (ArcMap)
+# Python version: 2.7 (installed with ArcMap)
+# No external packages are required
+
+# ArcPy is installed with ArcGIS — no pip installation needed
+# Ensure the Spatial Analyst extension is licensed and enabled
+
+# Optional: If migrating to ArcGIS Pro, update to Python 3.x and use arcpy >= 3.0
